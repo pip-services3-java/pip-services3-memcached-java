@@ -1,0 +1,6 @@
+{
+    "name": "pip-services3-memcached",
+    "registry": "pipdevs",
+    "version": "3.0.0",
+    "build": 0
+}
