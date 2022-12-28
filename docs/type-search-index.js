@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"org.pipservices3.memcached.build","l":"DefaultMemcachedFactory"},{"p":"org.pipservices3.memcached.cache","l":"MemcachedCache"},{"p":"org.pipservices3.memcached.lock","l":"MemcachedLock"}];updateSearchResults();

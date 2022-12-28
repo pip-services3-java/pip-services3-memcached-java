@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.pipservices3.memcached.build"},{"l":"org.pipservices3.memcached.cache"},{"l":"org.pipservices3.memcached.lock"}];updateSearchResults();
